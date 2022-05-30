@@ -99,7 +99,7 @@ and(Y2,I,S0,S1C);
 and(Y3,I,S0,S1);
 endmodule
 
-
+```
 ### RTL LOGIC  
 ![output](https://github.com/gunasekhar159/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/a.png?raw=true)
 
